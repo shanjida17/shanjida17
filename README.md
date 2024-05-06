@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjida17&label=Profile%20views&color=0e75b6&style=flat" alt="shanjida17" /> </p>
 
-- 🎓 Recently graduated with [B.Sc in CSE from](North South University)
+- 🎓 Recently graduated with B.Sc in CSE from [North South University](https://www.northsouth.edu/)
 
 - 🌱 I’m currently learning **webflow and figma.**
 
