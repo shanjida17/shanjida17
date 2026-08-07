@@ -1,17 +1,17 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Shanjida Akter</h1>
-<h3 align="center">A passionate machine learning engineer and web developer.</h3>
+<h3 align="center">A passionate Data Scientist and Machine Learning Engineer.</h3>
 <img align= "right" alt ="Coding" width="400" src= "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanjida17&label=Profile%20views&color=0e75b6&style=flat" alt="shanjida17" /> </p>
 
-- 🎓 Recently graduated with B.Sc in CSE from [North South University](https://www.northsouth.edu/)
+- 🎓 Recently graduated with M.Sc in Data Science and Analytics from [University of Hertfordshire](herts.ac.uk)
+  
+- 🎓 B.Sc in CSE from [North South University](https://www.northsouth.edu/)
+  
+- 🌱 I’m currently learning **Explainable AI.**
 
-- 🌱 I’m currently learning **webflow and figma.**
-
-- 🔭 I’m currently working on [banking dashboard web page](https://www.figma.com/file/6CUFsFyoTZaMIE58feQiXK/BankoFX?type=design&node-id=0%3A1&mode=design&t=MDwJLpwlW9PB2D3w-1)
-
-- 👯 I’m looking to collaborate on **any kind of ML or website based projects**
+- 👯 I’m looking to collaborate on **any kind of ML or Data Science based projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shanjida17)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me? [Email](shanjidaswarna444@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1CXVQAaz3fVW4yda7OOdMkJZpBPDbakSE/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tSvnpqDsOGNFj4u1Dtmry9VriPQKXSrQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
