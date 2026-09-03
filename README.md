@@ -21,7 +21,7 @@
 
 - 📫 How to reach me? [Email](shanjidaswarna444@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tSvnpqDsOGNFj4u1Dtmry9VriPQKXSrQ/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1T0cITOt3guFPdMlZDz__k-JP6XMW5xit/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
